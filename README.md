@@ -3,7 +3,7 @@
   
 [PT-BR]
 
-<img src="https://cdn.discordapp.com/attachments/691143281442029589/903311745978892348/wifi-ie.png" alt="exemplo imagem">
+<img src="https://cdn.discordapp.com/attachments/691143281442029589/903311745978892348/wifi-ie.png">
 
 > WIFI-IE é um software executável que pode importar e exportar perfis de rede wifi em arquivos `.xml`
 
