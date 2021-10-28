@@ -3,12 +3,6 @@
   
 [PT-BR]
 
-![GitHub repo size](https://img.shields.io/github/repo-size/luis422/WIFI-IE?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/luis422/WIFI-IE?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/luis422/WIFI-IE?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luis422/WIFI-IE?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luis422/WIFI-IE?style=for-the-badge)
-
 <img src="https://cdn.discordapp.com/attachments/691143281442029589/903311745978892348/wifi-ie.png" alt="exemplo imagem">
 
 > WIFI-IE é um software executável que pode importar e exportar perfis de rede wifi em arquivos `.xml`
