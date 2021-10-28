@@ -1,7 +1,7 @@
 # WIFI-ImportExport
 
   
-## [PT-BR]
+[PT-BR]
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/luis422/WIFI-IE?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/luis422/WIFI-IE?style=for-the-badge)
