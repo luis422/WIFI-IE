@@ -28,7 +28,7 @@ O projeto ainda está em andamento, confira as funcionalidades:
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Versão 8 ou superior do `Java`
-* Sistema Operacional `Windows 7+`
+* Sistema Operacional `Windows`
 
 ## 👨‍💻 Desenvolvedores
 
